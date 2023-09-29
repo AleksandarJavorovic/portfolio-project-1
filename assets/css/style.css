@@ -99,5 +99,8 @@ footer {
     align-items: center;
     height: inherit;
     font-size: 18px;
-    
+}
+
+.footer a {
+    color: #3a3a3a;
 }
