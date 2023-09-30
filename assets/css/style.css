@@ -72,7 +72,12 @@ h1 {
     color: #3a3a3a;
     flex-basis: content;
     font-size: 20px;
+}
 
+/* Change background color of the element hoovered via mouse */
+
+.navbar a:hover {
+    background-color: #dee2e6;
 }
 
 .navbar > li {
@@ -86,6 +91,7 @@ main {
     /* Main element takes any surplus space and pushes footer down */
     flex: 1 0 auto;
     width: 100%;
+    margin-top: 8vh;
 }
 
 
