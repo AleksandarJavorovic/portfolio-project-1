@@ -39,13 +39,14 @@ header {
 
 a {
     text-decoration: none;
+    font-size: 100%;
 }
 
 h1 {
     font-family: 'Playfair Display', serif;
-    text-align: center;
     font-size: 220%;
 }
+
 
 /* Logo Style */
 #logo {
@@ -74,15 +75,16 @@ h1 {
     font-size: 20px;
 }
 
-/* Change background color of the element hoovered via mouse */
-
-.navbar a:hover {
-    background-color: #dee2e6;
+.navbar>li {
+    flex: 1 0 content;
+    padding: 0 50px;
 }
 
-.navbar > li {
-    flex:1 0 content;
-    padding: 0 50px;
+/* Enlarge elements hovered by mouse*/
+
+.navbar a:hover {
+    display: inline-block;
+    transform: scale(1.2);
 }
 
 /* Main */
