@@ -123,3 +123,10 @@ footer {
 .footer a {
     color: #3a3a3a;
 }
+
+/* Enlarge footer icons for external links when hovered by mouse */
+
+.footer a:hover {
+    display: inline-block;
+    transform: scale(1.2);
+}
