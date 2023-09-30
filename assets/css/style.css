@@ -75,11 +75,11 @@ h1 {
 
 .navbar>li {
     flex: 1 0 content;
-    padding-right: 30px;
+    padding-right: 35px;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 2px solid #825;
 }
 
 /* Enlarge elements hovered by mouse*/
