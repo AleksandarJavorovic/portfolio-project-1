@@ -133,6 +133,7 @@ footer {
 
 /* Media query for screens of max 425px */
 @media screen and (max-width: 426px) {
+
     /* h1 heading */
     header {
         align-content: center;
@@ -164,15 +165,16 @@ footer {
     .navbar a {
         font-size: 90%;
         height: 8vh;
-        }
-    
+    }
+
     .navbar>li {
         padding-bottom: 8px;
-        }
+    }
+
     /* Nav toggle */
     #nav-toggle:checked~nav {
         display: block;
-        }
+    }
 
     #nav-toggle {
         display: none;
@@ -182,47 +184,51 @@ footer {
     /* Footer */
     .footer {
         font-size: 100%;
-        }
+    }
 }
 
 /* Media query for screens from 426px to 768px */
 @media screen and (min-width: 426px) {
+
     /* h1 heading */
     h1 {
         font-size: 170%;
         padding-left: 20px;
-        }
+    }
+
     /* Hide drop-down menu */
     #nav-toggle {
         display: none;
-        }
+    }
 
     .nav-toggle-label {
         display: none;
-        }
+    }
 
     /* Navbar */
     .navbar a {
         font-size: 90%;
-        }
+    }
 
     .navbar>li {
         padding-right: 20px;
-         }
+    }
 
     /* Footer */
     .footer {
         font-size: 100%;
-        }
+    }
 }
 
 /* Media query for screens of 768px width and bigger*/
 @media screen and (min-width: 768px) {
+
     /* h1 heading */
     h1 {
         font-size: 180%;
         padding-left: 20px;
-        }
+    }
+
     /* Hide drop-down menu */
     #nav-toggle {
         display: none;
@@ -234,11 +240,31 @@ footer {
 
     /* Navbar */
     .navbar a {
-        font-size: 100%;
-        }
+        font-size: 90%;
+    }
+
     /* Footer */
     .footer {
-        font-size: 120%; 
-        }
+        font-size: 120%;
+    }
 }
 
+/* Media query for screens of 1200px width and bigger*/
+@media screen and (min-width: 1200px) {
+
+    /* h1 heading */
+    h1 {
+        font-size: 220%;
+        padding-left: 20px;
+    }
+
+    /* Navbar */
+    .navbar a {
+        font-size: 120%;
+    }
+
+    /* Footer */
+    .footer {
+        font-size: 140%;
+    }
+}
