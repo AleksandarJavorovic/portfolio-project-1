@@ -102,6 +102,26 @@ main {
     height: 100%;
     width: 100%;
     background: url("../images/hero-image.webp") no-repeat center center/cover;
+    position: relative;
+}
+
+/* Styling of the main cover text */
+#main-text {
+    font-size: 130%;
+    text-transform: capitalize;
+    width: 80%;
+    color: #ffffff;
+    letter-spacing: 2px;
+    font-family: 'Playfair Display', serif;
+    position: absolute;
+    top: 20px;
+    left: 2vw;
+    text-shadow: 2px 2px 5px #3a3a3a;
+    background-color: rgba(205, 172, 132, 0.7);
+    border-radius: 5px;
+    padding-left: 5px;
+    text-align: center;
+
 }
 
 
@@ -251,28 +271,54 @@ footer {
         font-size: 90%;
     }
 
+    /* Styling of the main cover text */
+    #main-text {
+        width: 35%;
+        top: 50px;
+        font-size: 150%;
+        left: 5vw;
+    }
+
+
+
     /* Footer */
     .footer {
         font-size: 120%;
     }
 }
 
-/* Media query for screens of 1200px width and bigger*/
-@media screen and (min-width: 1200px) {
+/* Media query for screens of 992px width and bigger*/
+@media screen and (min-width: 992px) {
 
-    /* h1 heading */
-    h1 {
-        font-size: 220%;
-        padding-left: 20px;
+    /* Styling of the main cover text */
+    #main-text {
+        font-size: 170%;
     }
 
-    /* Navbar */
-    .navbar a {
-        font-size: 120%;
-    }
+    /* Media query for screens of 1200px width and bigger*/
+    @media screen and (min-width: 1200px) {
 
-    /* Footer */
-    .footer {
-        font-size: 140%;
+        /* h1 heading */
+        h1 {
+            font-size: 220%;
+            padding-left: 20px;
+        }
+
+        /* Navbar */
+        .navbar a {
+            font-size: 120%;
+        }
+
+        /* Styling of the main cover text */
+        #main-text {
+            font-size: 250%;
+            width: 30%;
+            top: 100px;
+            left: 5vw;
+        }
+
+        /* Footer */
+        .footer {
+            font-size: 140%;
+        }
     }
-}
