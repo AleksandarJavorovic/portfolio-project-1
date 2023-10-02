@@ -134,6 +134,8 @@ footer {
     height: 7%;
     z-index: 98;
     box-shadow: 0 -2px 2px #3a3a3a;
+    position: fixed;
+    bottom: 0;
 }
 
 .footer {
@@ -142,10 +144,8 @@ footer {
     list-style: none;
     justify-content: space-evenly;
     align-items: center;
-    height: inherit;
+    height: 100%;
     font-size: 22px;
-    position: fixed;
-    bottom: 0;
     width: 100%;
 }
 
