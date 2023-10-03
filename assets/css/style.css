@@ -317,8 +317,6 @@ footer {
         margin-bottom: 10%;
     }
 
-
-
     /* Footer */
     .footer {
         font-size: 120%;
@@ -402,6 +400,10 @@ footer {
         font-size: 200%;
     }
 
+    #about {
+        margin: 20px 0 20px 60px;
+    }
+
 
     /* Footer */
     .footer {
@@ -409,11 +411,23 @@ footer {
     }
 }
 
-/* Media query for screens of 1200px width and bigger*/
-@media screen and (min-width: 1200px) {
+/* Media query for screens of 1800px width and bigger*/
+@media screen and (min-width: 1800px) {
 
     /* About Page Styles */
+    #about {
+        margin: 20px 0 20px 90px;
+    }
+
     #about img {
-        margin-top: 4%;
+        margin-top: 5%;
+    }
+
+    #about p {
+        font-size: 190%;
+    }
+
+    #about h2 {
+        font-size: 220%;
     }
 }
