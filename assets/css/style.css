@@ -241,7 +241,6 @@ footer {
         display: none;
     }
 
-
     /* Footer */
     .footer {
         font-size: 100%;
@@ -429,5 +428,26 @@ footer {
 
     #about h2 {
         font-size: 220%;
+    }
+}
+
+/* Media query for screens of 2560px width and bigger*/
+@media screen and (min-width: 2560px) {
+
+    /* About Page Styles */
+    #about {
+        margin: 20px 0 20px 128px;
+    }
+
+    #about img {
+        margin-top: 4.5%;
+    }
+
+    #about p {
+        font-size: 210%;
+    }
+
+    #about h2 {
+        font-size: 250%;
     }
 }
