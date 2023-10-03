@@ -146,6 +146,7 @@ main {
 #about h2 {
     font-family: 'Playfair Display', serif;
     letter-spacing: 1px;
+    color: #CDAC84;
 }
 
 hr {
@@ -333,66 +334,86 @@ footer {
     }
 
     /* About Us page Styles*/
-    #about > div {
+    #about>div {
         /* Use flex property to align text-image in row direction */
         display: flex;
         flex-flow: row nowrap;
-        justify-content: ;
     }
 
     #about {
         margin: 20px 0 20px 45px;
     }
 
-    #who div, 
-    #how div, 
+    #who div,
+    #how div,
     #goals div {
         width: 50%;
     }
 
-    hr {
-        margin-right: 10px;
+    #about p {
+        font-size: 125%;
     }
 
     #about img {
         margin-top: 7%;
     }
 
+    hr {
+        margin-right: 10px;
+    }
+
+
+    /* styles to change the order of elements inside #how div */
     .div-right {
         order: 2;
         margin-left: 10px;
         text-align: right;
     }
+}
 
+/* Media query for screens of 1200px width and bigger*/
+@media screen and (min-width: 1200px) {
+
+    /* h1 heading */
+    h1 {
+        font-size: 220%;
+        padding-left: 20px;
+    }
+
+    /* Navbar */
+    .navbar a {
+        font-size: 120%;
+    }
+
+    /* Styling of the main cover text */
+    #main-text {
+        font-size: 250%;
+        width: 30%;
+        top: 100px;
+        left: 5vw;
+    }
+
+    /* Styling About Us Page */
     #about p {
-        font-size: 125%;
+        font-size: 170%;
+    }
+
+    #about h2 {
+        font-size: 200%;
+    }
+
+
+    /* Footer */
+    .footer {
+        font-size: 140%;
     }
 }
 
-    /* Media query for screens of 1200px width and bigger*/
-    @media screen and (min-width: 1200px) {
+/* Media query for screens of 1200px width and bigger*/
+@media screen and (min-width: 1200px) {
 
-        /* h1 heading */
-        h1 {
-            font-size: 220%;
-            padding-left: 20px;
-        }
-
-        /* Navbar */
-        .navbar a {
-            font-size: 120%;
-        }
-
-        /* Styling of the main cover text */
-        #main-text {
-            font-size: 250%;
-            width: 30%;
-            top: 100px;
-            left: 5vw;
-        }
-
-        /* Footer */
-        .footer {
-            font-size: 140%;
-        }
+    /* About Page Styles */
+    #about img {
+        margin-top: 4%;
     }
+}
