@@ -121,10 +121,40 @@ main {
     border-radius: 5px;
     padding-left: 5px;
     text-align: center;
-
 }
 
+/* Styling of About section at About us page */
+#about {
+    width: 90%;
+    margin: 15px auto;
+}
 
+#about div {
+    margin-bottom: 20px;
+}
+/* Style to stop overflow caused by images*/
+#about img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+#about p {
+    padding: 0 5px;
+}
+
+#about h2 {
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+}
+
+hr {
+    border-top: 2px solid #3a3a3a;
+    margin-bottom: 5px;
+}
+/* Style to take img up above footer*/
+#goals img {
+    margin-bottom: 25%;
+}
 
 
 /* Footer */
