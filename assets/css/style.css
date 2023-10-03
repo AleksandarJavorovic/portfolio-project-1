@@ -332,6 +332,43 @@ footer {
         font-size: 170%;
     }
 
+    /* About Us page Styles*/
+    #about > div {
+        /* Use flex property to align text-image in row direction */
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: ;
+    }
+
+    #about {
+        margin: 20px 0 20px 45px;
+    }
+
+    #who div, 
+    #how div, 
+    #goals div {
+        width: 50%;
+    }
+
+    hr {
+        margin-right: 10px;
+    }
+
+    #about img {
+        margin-top: 7%;
+    }
+
+    .div-right {
+        order: 2;
+        margin-left: 10px;
+        text-align: right;
+    }
+
+    #about p {
+        font-size: 125%;
+    }
+}
+
     /* Media query for screens of 1200px width and bigger*/
     @media screen and (min-width: 1200px) {
 
