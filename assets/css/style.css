@@ -160,14 +160,18 @@ hr {
 }
 
 /* Our Work Page */
-#photos img {
+.grid-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid-column img {
     width: 100%;
 }
 
-#photos > div {
+.grid-column {
     line-height: 0;
 }
-
 
 /* Footer */
 footer {
@@ -325,6 +329,9 @@ footer {
         margin-bottom: 10%;
     }
 
+    /* Our Work Page */
+
+    
     /* Footer */
     .footer {
         font-size: 120%;
