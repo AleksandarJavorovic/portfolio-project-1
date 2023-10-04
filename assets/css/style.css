@@ -159,6 +159,15 @@ hr {
     margin-bottom: 22%;
 }
 
+/* Our Work Page */
+#photos img {
+    width: 100%;
+}
+
+#photos > div {
+    line-height: 0;
+}
+
 
 /* Footer */
 footer {
