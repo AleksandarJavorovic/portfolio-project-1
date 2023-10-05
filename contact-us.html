@@ -82,7 +82,7 @@
     <!-- Main -->
     <main>
       <section id="contact-us">
-        <h2>Contact us if you want to make yourself happy</h2>
+        <h2>Get in touch with us today!</h2>
         <form
           id="contact-us-form"
           action="https://formdump.codeinstitute.net"
@@ -90,6 +90,7 @@
         >
           <label for="customer-name">Name:</label>
           <input
+            placeholder="Aleksandar Javorovic"
             class="text-input"
             id="customer-name"
             type="text"
@@ -99,6 +100,7 @@
           <br />
           <label for="customer-email">Email:</label>
           <input
+            placeholder="aleksandarjavorovic@gmail.com"
             class="text-input"
             id="customer-email"
             type="email"
@@ -108,22 +110,24 @@
           <br />
           <label for="phone-number">Phone:</label>
           <input
+            placeholder="+49 000 000 000"
             class="text-input"
             id="phone-number"
-            type="text"
+            type="tel"
             name="phone"
             required
           />
           <br />
-          <label for="comment-area">Comment:</label>
+          <label for="comment-area">Message(optional):</label>
           <textarea
+            placeholder="Describe to us what is that you are looking for. Tell us your idea. Ask us any question and we will do our best to answer as soon as possible."
             name="Comment"
             id="comment-area"
             cols="30"
             rows="10"
           ></textarea>
           <br />
-          <input type="submit" value="Submit!" />
+          <button type="submit" value="Submit!">Submit!</button>
         </form>
       </section>
       <div id="google-map">
