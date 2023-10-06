@@ -188,7 +188,7 @@ hr {
 }
 
 #contact-us-form input,
-#contact-us-form textarea{
+#contact-us-form textarea {
     width: 100%;
     border-radius: 3px;
     padding-left: 3px;
@@ -202,8 +202,6 @@ button {
     width: 80px;
     height: 30px;
     border-radius: 5px;
-    bottom: 0;
-    right: 0;
 }
 
 button:hover {
@@ -213,17 +211,18 @@ button:hover {
 
 /* Google Map */
 #google-map {
+    overflow: hidden;
+    padding-bottom: 56.25%;
     position: relative;
-    height: 30%;
-    margin-top: 20%;
+    height: 0;
 }
 
 #google-map iframe {
+    left: 0;
+    top: 0;
     height: 100%;
     width: 100%;
     position: absolute;
-    left: 0;
-    top: 0;
 }
 
 /* Footer */
@@ -343,6 +342,13 @@ footer {
     /* Footer */
     .footer {
         font-size: 100%;
+    }
+}
+
+/* Media query for screens of 685px width and bigger*/
+@media screen and (min-width: 685px) {
+    #google-map iframe{
+        max-height: 385.312px;
     }
 }
 
