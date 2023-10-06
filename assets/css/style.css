@@ -307,21 +307,21 @@ footer {
 /* Media query for screens from 165px and larger*/
 @media screen and (min-width: 165px) {
     #google-map iframe {
-        min-height: 327px;
+        min-height: 34.75vh;
     }
 }
 
 /* Media query for screens from 203px and larger*/
 @media screen and (min-width: 203px) {
     #google-map iframe {
-        min-height: 356px;
+        min-height: 37.832vh;
     }
 }
 
 /* Media query for screens from 338px and larger*/
 @media screen and (min-width: 338px) {
     #google-map iframe {
-        min-height: 385px;
+        min-height: 40.914vh;
     }
 }
 
@@ -355,13 +355,6 @@ footer {
     /* Footer */
     .footer {
         font-size: 100%;
-    }
-}
-
-/* Media query for screens of 685px width and bigger*/
-@media screen and (min-width: 685px) {
-    #google-map iframe {
-        max-height: 385.312px;
     }
 }
 
