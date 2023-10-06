@@ -211,18 +211,11 @@ button:hover {
 
 /* Google Map */
 #google-map {
-    overflow: hidden;
-    padding-bottom: 56.25%;
-    position: relative;
-    height: 0;
+    
 }
 
 #google-map iframe {
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    position: absolute;
+  width: 100%;
 }
 
 /* Footer */
@@ -311,6 +304,26 @@ footer {
         font-size: 100%;
     }
 }
+/* Media query for screens from 165px and larger*/
+@media screen and (min-width: 165px) {
+    #google-map iframe {
+        min-height: 327px;
+    }
+}
+
+/* Media query for screens from 203px and larger*/
+@media screen and (min-width: 203px) {
+    #google-map iframe {
+        min-height: 356px;
+    }
+}
+
+/* Media query for screens from 338px and larger*/
+@media screen and (min-width: 338px) {
+    #google-map iframe {
+        min-height: 385px;
+    }
+}
 
 /* Media query for screens from 426px to 768px */
 @media screen and (min-width: 426px) {
@@ -347,7 +360,7 @@ footer {
 
 /* Media query for screens of 685px width and bigger*/
 @media screen and (min-width: 685px) {
-    #google-map iframe{
+    #google-map iframe {
         max-height: 385.312px;
     }
 }
