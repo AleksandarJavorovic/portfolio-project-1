@@ -177,14 +177,15 @@ hr {
 .grid-container {
     display: flex;
     flex-wrap: wrap;
+    padding-bottom: 72px;
 }
 
-.grid-column img {
+.grid-item img {
     width: 100%;
     line-height: 3vh;
 }
 
-.grid-column {
+.grid-item {
     line-height: 0;
 }
 
