@@ -175,14 +175,14 @@ hr {
 
 /* Our Work Page */
 .grid-container {
-    display: flex;
-    flex-wrap: wrap;
     padding-bottom: 72px;
 }
 
 .grid-item img {
     width: 100%;
     line-height: 3vh;
+    padding: 5px;
+    border-radius: 15px;
 }
 
 .grid-item {
@@ -319,8 +319,8 @@ footer {
 
     /* About Us Page */
     #about {
-    padding-bottom: 0;
-}
+        padding-bottom: 0;
+    }
 
     /* Footer */
     .footer {
@@ -363,6 +363,12 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+    /* Our Work Page */
+    .grid-container {
+        column-count: 2;
+        column-gap: 0;
+    }
 }
 
 /* Media query for screens of 768px width and bigger*/
@@ -402,10 +408,7 @@ footer {
     }
 
     /* Our Work Page */
-    .grid-column {
-        flex: 50%;
-        max-width: 50%;
-    }
+    .grid-container {}
 
     /* Contact Us Page */
     #contact-us-top {
@@ -425,7 +428,7 @@ footer {
     #google-map {
         text-align: center;
     }
-    
+
     #google-map iframe {
         max-width: 800px;
         border-radius: 10px;
@@ -485,6 +488,12 @@ footer {
         order: 2;
         margin-left: 10px;
         text-align: right;
+    }
+
+    /* Our Work Page */
+    .grid-container {
+        column-count: 4;
+        column-gap: 0;
     }
 }
 
