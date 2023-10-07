@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Roboto
-- Font Author: Copyright 2011 Google Inc. All Rights Reserved.
-- Font Source: http://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf
-- Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html))
+- Font Title: Playfair Display
+- Font Author: Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), with Reserved Font Name "Playfair Display".
+- Font Source: http://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQZNLo_U2r.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
