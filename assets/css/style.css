@@ -17,7 +17,6 @@ body {
     /* generic styles */
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
-
 }
 
 /* Header */
@@ -45,7 +44,6 @@ h1 {
     font-size: 220%;
     padding-left: 20px;
 }
-
 
 /* Logo Style */
 #logo {
@@ -384,6 +382,10 @@ footer {
         font-size: 90%;
     }
 
+    .navbar a:hover {
+        color: #CDAC84;   
+    }
+
     /* Styling of the main cover text */
     #main-text {
         width: 35%;
@@ -411,6 +413,7 @@ footer {
 
 /* Media query for screens of 992px width and bigger*/
 @media screen and (min-width: 992px) {
+
     /* Header */
     .navbar a {
         font-size: 110%;
@@ -423,12 +426,6 @@ footer {
     /* Styling of the main cover text */
     #main-text {
         font-size: 170%;
-    }
-
-    /* Enlarge elements hovered by mouse*/
-    .navbar a:hover {
-        display: inline-block;
-        transform: scale(1.2);
     }
 
     /* About Us page Styles*/
