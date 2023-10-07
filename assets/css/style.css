@@ -140,6 +140,7 @@ main {
 #about {
     width: 90%;
     margin: 15px auto;
+    padding-bottom: 2.5em;
 }
 
 #about div {
@@ -315,7 +316,10 @@ footer {
         padding-right: 20px;
     }
 
-
+    /* About Us Page */
+    #about {
+    padding-bottom: 0;
+}
 
     /* Footer */
     .footer {
@@ -386,6 +390,11 @@ footer {
         left: 5vw;
     }
 
+    /* About Us Page */
+    #about {
+        padding-bottom: 1em;
+    }
+
     /* Style to take img up above footer (about us page)*/
     #goals img {
         margin-bottom: 10%;
@@ -448,6 +457,7 @@ footer {
 
     #about {
         margin: 20px 0 20px 45px;
+        padding-bottom: 3em;
     }
 
     #who div,
@@ -510,6 +520,7 @@ footer {
 
     #about {
         margin: 20px 0 20px 60px;
+        padding-bottom: 3.5em;
     }
 
     /* Our Work Page */
