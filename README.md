@@ -10,21 +10,44 @@ As for our targeted group of customers, well, that can be literally anyone with 
 
 ## Table of Content
 
-* ### [User Experience (UX)](#user-experience-ux)
+ ### [User Experience (UX)](#user-experience-ux)
+  * [User Stories](#user-stories)
 
-* ### [Features](#features)
+ ### [Design](#design)
 
-* ### [Design](#design)
+ ### [Features](#features)
 
-* ### [Technologies Used](#technologies-used)
+ ### [Technologies Used](#technologies-used)
 
-* ### [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
+ ### [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
 
-* ### [Testing](#testing)
+ ### [Testing](#testing)
 
-* ### [Deployment and local development](#deployment-and-local-development)
+ ### [Deployment and local development](#deployment-and-local-development)
 
-* ### [Credits](#credits)
+  ### [Credits](#credits)
 
-* ### [Aknowledgements](#aknowledgements)
+ ### [Aknowledgements](#aknowledgements)
+---
 
+## **User Experience (UX)**
+
+Goal of this site is to present our company and attract possible customers, those who would like to own exceptional, modern, stylish pieces of furniture. 
+
+The site itself is simple and easy to navigate, with a concise but effective message which welcomes the possible customer.
+
+About Us and Our Work pages are there to present us, and show them what are we able to produce.
+
+### **User Stories**
+
+* **Visitor goals**
+  * Understand who we are and what we do
+  * Easily navigate the site
+  * Get in touch with us via form or via our social networks
+  * Find the address if they are more of a old school type of person and would like to visit us in person
+
+* **Business owner goals**
+  * Present our brand in the best possible way
+  * Attract possible customer by our previous work, which can be seen in our gallery
+  * Sell our services
+  * Keep the customer happy and satisfied as that ensures further cooperation and attracts new costumers
