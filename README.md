@@ -2,7 +2,7 @@
 
 XYZcellent Solutions is an passionate, dedicated furniture company, consisting of young skilled craftsmen, designers and furniture enthusiasts who share same vision: providing high-quality, inovative, stylish furniture for our customers, which will decorate their living or working space.
 
-As for our targeted group of customers, well, that can be literally anyone with a desire to change his/her living or working space for better.
+As for our targeted group of customers, well, that can be literally anyone with a desire to change their living or working space for better.
 
 [XYZcellent Solutions live project here.](https://aleksandarjavorovic.github.io/portfolio-project-1/)
 
@@ -55,7 +55,8 @@ About Us and Our Work pages are there to present us, and show them what are we a
 
 * **Color Scheme**
 
-  * The colors I've used are #CDAC84, #3a3a3a and #ffffff. I went for relatively simple look without many colors. ![Color Scheme](assets/images/design/color-comparing.png)
+  * The colors I've used are #CDAC84, #3a3a3a and #ffffff. I went for relatively simple look without many colors.
+  * ![Color Scheme](assets/images/design/color-comparing.png)
 * **Typography**
 
   * The fonts I've used are Lato and Playfair Display with a sans-serif as a backup font in case of importing issues. 
@@ -174,3 +175,19 @@ About Us and Our Work pages are there to present us, and show them what are we a
   ![Wireframe Thank You Page Tablet](/assets/images/wireframes/wireframe-thank-you-desktop.png)
   </details>
 
+## **[Features](#features)**
+
+### **Header**
+The website is built upon principles of responsive design, therefore the header, as well as other parts of site, look slightly different on devices with different screen sizes. Within the header we have company name(logo) on the left side, as well as navigation bar which contains 4 elements on bigger screens, on smaller screens is swaped with the so-called burger icon, which represents drop-down menu. Elements of the header have naming and icon appropriate to the content which follows behind.
+
+* **Mobile Phone**
+
+![Mobile Phone header](assets/images/features/header-mobile.png)
+
+when the burger button is pressed:
+
+![Mobile Phone header](assets/images/features/header-dropdown-mobile.png)
+
+* **Desktop**
+
+![Desktop header](assets/images/features/header-desktop.png)
