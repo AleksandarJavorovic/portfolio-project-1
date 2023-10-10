@@ -12,8 +12,8 @@ As for our targeted group of customers, well, that can be literally anyone with 
 
  ### [User Experience (UX)](#user-experience-ux)
   * [User Stories](#user-stories)
-
- ### [Design](#design)
+  * [Design](#design)
+  * [Wireframes](#wireframes)
 
  ### [Features](#features)
 
@@ -28,7 +28,6 @@ As for our targeted group of customers, well, that can be literally anyone with 
   ### [Credits](#credits)
 
  ### [Aknowledgements](#aknowledgements)
----
 
 ## **User Experience (UX)**
 
@@ -51,3 +50,19 @@ About Us and Our Work pages are there to present us, and show them what are we a
   * Attract possible customer by our previous work, which can be seen in our gallery
   * Sell our services
   * Keep the customer happy and satisfied as that ensures further cooperation and attracts new costumers
+
+### **Design**
+
+* **Color Scheme**
+
+  * The colors I've used are #CDAC84, #3a3a3a and #ffffff. I went for relatively simple look without many colors. ![Color Scheme](assets/images/Design/color-comparing.png)
+* **Typography**
+
+  * The fonts I've used are Lato and Playfair Display with a sans-serif as a backup font in case of importing issues. 
+  
+* **Imagery**
+
+  * The hero-image I've chosen with the elements on it represent kind of artistic approach to the furniture design. According to the image, I've chosen the colors I've used.
+  
+### **Wireframe**
+
