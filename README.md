@@ -10,13 +10,19 @@ As for our targeted group of customers, well, that can be literally anyone with 
 
 ## Table of Content
 
- ### [User Experience (UX)](#user-experience-ux)
+ ### [**User Experience (UX)**](#user-experience-ux)
   * [User Stories](#user-stories)
   * [Design](#design)
   * [Wireframes](#wireframes)
 
  ### [Features](#features)
-
+  * [Header](#header)
+  * [Home Page](#home-page)
+  * [About Us Page](#about-us-page)
+  * [Our Work Page](#our-work-page)
+  * [Contact Us Page](#contact-us-page)
+  * [Thank You Page](#thank-you-page)
+  * [Footer](#footer)
  ### [Technologies Used](#technologies-used)
 
  ### [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
@@ -175,10 +181,10 @@ About Us and Our Work pages are there to present us, and show them what are we a
   ![Wireframe Thank You Page Tablet](/assets/images/wireframes/wireframe-thank-you-desktop.png)
   </details>
 
-## **[Features](#features)**
+## **Features**
 
 ### **Header**
-The website is built upon principles of responsive design, therefore the header, as well as other parts of site, look slightly different on devices with different screen sizes. Within the header we have company name(logo) on the left side, as well as navigation bar which contains 4 elements on bigger screens, on smaller screens is swaped with the so-called burger icon, which represents drop-down menu. Elements of the header have naming and icon appropriate to the content which follows behind.
+The website is built upon principles of responsive design, therefore the header, as well as other parts of site, look slightly different on devices with different screen sizes. Within the header we have company name(logo) on the left side, as well as navigation bar which contains 4 elements on bigger screens, on smaller screens is swaped with the so-called burger icon, which is drop-down menu. Elements of the header have naming and icon appropriate to the content which follows behind.
 
 * **Mobile Phone**
 
@@ -191,3 +197,31 @@ when the burger button is pressed:
 * **Desktop**
 
 ![Desktop header](assets/images/features/header-desktop.png)
+
+### **Home Page**
+
+Do your thing and let the furniture design/assembly be our concern.
+
+That's the phrase which welcomes the user landing on the home page. It is simple, straight to the point and it contains the keywords representing our services. That should be enough to get them interested and to know we are one-stop destination for all furniture needs.
+
+![Desktop Home Page](assets/images/features/index-desktop.png)
+
+### **About Us Page**
+
+Name of the page tells us more or less everything what user can expect here. About us page is here to introduce XYZcellent Solutions to the future customer and let him know a little bit more about the company, our goals etc.
+
+Here we have three sections:
+
+1. Who are we?
+
+![About Us Page](assets/images/features/about-us-1-desktop.png)
+
+2. How it all started?
+
+![About Us Page](assets/images/features/about-us-2-desktop.png)
+
+3. What is our goal?
+
+![About Us Page](assets/images/features/about-us-3-desktop.png)
+
+
