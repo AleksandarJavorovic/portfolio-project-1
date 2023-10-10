@@ -241,7 +241,18 @@ Hoping that we have sparked the desire of users to buy our services, at this pag
 
 ### **Thank You Page**
 
-This page is very similar to Contact Us, only difference is that instead of form, there is a message that form has been submited. There is also funny advice for the customer to keep on scrolling through Our Work for more inspiration. :)
+This page is very similar to Contact Us, only difference is that instead of form, there is a message that form has been submited. To achieve this I had to change method to GET. There is also funny advice for the customer to keep on scrolling through Our Work for more inspiration. :)
 
 ![Thank You Page](assets/images/features/thank-you-desktop.png)
 
+### **Footer**
+
+The footer itself is pretty basic but yet functional. It contains links to social networks presented in a form of icons.
+
+* **Mobile Phones**
+
+![Footer](assets/images/features/footer-mobile.png)
+
+* **Desktop**
+
+![Footer](assets/images/features/footer-desktop.png)
