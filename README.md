@@ -62,7 +62,7 @@ About Us and Our Work pages are there to present us, and show them what are we a
   
 * **Imagery**
 
-  * The hero-image I've chosen with the elements on it represent kind of artistic approach to the furniture design. According to the image, I've chosen the colors I've used.
+  * The hero-image I've chosen with the elements on it represent an artistic approach to the furniture design. According to the image, I've chosen the colors I've used.
   
 ### **Wireframes**
 
@@ -102,5 +102,75 @@ About Us and Our Work pages are there to present us, and show them what are we a
   ![Wireframe Thank You Page Mobile](/assets/images/wireframes/wireframe-thank-you-mobile.png)
   </details>
 * **Tablet**
+
+  <details>
+  <summary>index.html
+  </summary>
+  
+  ![Wireframe Index Page Tablet](/assets/images/wireframes/wireframe-index-tablet.png)
+  </details>
+
+  <details>
+  <summary>about-us.html
+  </summary>
+  
+  ![Wireframe About Us Page Tablet](/assets/images/wireframes/wireframe-about-us-tablet.png)
+  </details>
+
+  <details>
+  <summary>our-work.html
+  </summary>
+  
+  ![Wireframe Our Work Page Tablet](/assets/images/wireframes/wireframe-our-work-tablet.png)
+  </details>
+
+  <details>
+  <summary>contact-us.html
+  </summary>
+  
+  ![Wireframe Contact Us Page Tablet](/assets/images/wireframes/wireframe-contact-us-tablet.png)
+  </details>
+
+  <details>
+  <summary>thank-you.html
+  </summary>
+  
+  ![Wireframe Thank You Page Tablet](/assets/images/wireframes/wireframe-thank-you-tablet.png)
+  </details>
 * **Desktop**
+
+  <details>
+  <summary>index.html
+  </summary>
+  
+  ![Wireframe Index Page Tablet](/assets/images/wireframes/wireframe-index-desktop.png)
+  </details>
+
+  <details>
+  <summary>about-us.html
+  </summary>
+  
+  ![Wireframe About Us Page Tablet](/assets/images/wireframes/wireframe-about-us-desktop.png)
+  </details>
+
+  <details>
+  <summary>our-work.html
+  </summary>
+  
+  ![Wireframe Our Work Page Tablet](/assets/images/wireframes/wireframe-our-work-desktop.png)
+  </details>
+
+  <details>
+  <summary>contact-us.html
+  </summary>
+  
+  ![Wireframe Contact Us Page Tablet](/assets/images/wireframes/wireframe-contact-us-desktop.png)
+  </details>
+
+  <details>
+  <summary>thank-you.html
+  </summary>
+  
+  ![Wireframe Thank You Page Tablet](/assets/images/wireframes/wireframe-thank-you-desktop.png)
+  </details>
 
