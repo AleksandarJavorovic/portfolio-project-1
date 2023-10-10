@@ -55,7 +55,7 @@ About Us and Our Work pages are there to present us, and show them what are we a
 
 * **Color Scheme**
 
-  * The colors I've used are #CDAC84, #3a3a3a and #ffffff. I went for relatively simple look without many colors. ![Color Scheme](assets/images/Design/color-comparing.png)
+  * The colors I've used are #CDAC84, #3a3a3a and #ffffff. I went for relatively simple look without many colors. ![Color Scheme](assets/images/design/color-comparing.png)
 * **Typography**
 
   * The fonts I've used are Lato and Playfair Display with a sans-serif as a backup font in case of importing issues. 
@@ -64,5 +64,43 @@ About Us and Our Work pages are there to present us, and show them what are we a
 
   * The hero-image I've chosen with the elements on it represent kind of artistic approach to the furniture design. According to the image, I've chosen the colors I've used.
   
-### **Wireframe**
+### **Wireframes**
+
+* **Mobile Phone**
+  <details>
+  <summary>index.html
+  </summary>
+  
+  ![Wireframe Index Page Mobile](/assets/images/wireframes/wireframe-index-mobile.png)
+  </details>
+
+  <details>
+  <summary>about-us.html
+  </summary>
+
+  ![Wireframe About US Page Mobile](/assets/images/wireframes/wireframe-about-us-mobile.png)
+  </details>
+  
+  <details>
+  <summary>our-work.html
+  </summary>
+
+  ![Wireframe Our Work Page Mobile](/assets/images/wireframes/wireframe-our-work-mobile.png)
+  </details>
+
+  <details>
+  <summary>contact-us.html
+  </summary>
+
+  ![Wireframe Contact US Page Mobile](/assets/images/wireframes/wireframe-contact-us-mobile.png)
+  </details>
+
+  <details>
+  <summary>thank-you.html
+  </summary>
+  
+  ![Wireframe Thank You Page Mobile](/assets/images/wireframes/wireframe-thank-you-mobile.png)
+  </details>
+* **Tablet**
+* **Desktop**
 
