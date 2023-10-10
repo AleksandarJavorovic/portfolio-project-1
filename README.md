@@ -208,20 +208,40 @@ That's the phrase which welcomes the user landing on the home page. It is simple
 
 ### **About Us Page**
 
-Name of the page tells us more or less everything what user can expect here. About us page is here to introduce XYZcellent Solutions to the future customer and let him know a little bit more about the company, our goals etc.
+Name of the page tells us more or less everything what user can expect here. About us page is here to introduce XYZcellent Solutions to the future customer and let him know something more about the company, our goals etc.
 
 Here we have three sections:
 
-1. Who are we?
+1. **Who are we?**
 
 ![About Us Page](assets/images/features/about-us-1-desktop.png)
 
-2. How it all started?
+2. **How it all started?**
 
 ![About Us Page](assets/images/features/about-us-2-desktop.png)
 
-3. What is our goal?
+3. **What is our goal?**
 
 ![About Us Page](assets/images/features/about-us-3-desktop.png)
 
+### **Our Work Page**
+
+Guided by the saying:"a picture says more than a thousand words", at this page are many photos which show our previous work and give the user an idea of our capabilities.
+
+![Our Work Page](assets/images/features/our-work-desktop.png)
+
+### **Contact Us Page**
+
+Hoping that we have sparked the desire of users to buy our services, at this page is everything they need to get in touch with us and that is:
+* Form to fill in and leave message/question if desired
+* Our address with working times
+* Extra iframe of google maps for easier navigation
+
+![Contact Us Page](assets/images/features/contact-us-desktop.png)
+
+### **Thank You Page**
+
+This page is very similar to Contact Us, only difference is that instead of form, there is a message that form has been submited. There is also funny advice for the customer to keep on scrolling through Our Work for more inspiration. :)
+
+![Thank You Page](assets/images/features/thank-you-desktop.png)
 
