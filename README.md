@@ -294,4 +294,3 @@ The footer itself is pretty basic but yet functional. It contains links to socia
 9. [Red Ketchup](https://redketchup.io/)
    * Used to crop images
 
-
