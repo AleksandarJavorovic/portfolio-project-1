@@ -50,7 +50,7 @@ As for our targeted group of customers, well, that can be literally anyone with 
 - [Content](#content)
 - [Media](#media)
 
-## <a id="user-experience-ux-123"></a>**User Experience (UX)**
+## <a id="user-experience-ux-aa"></a>**User Experience (UX)**
 
 Goal of this site is to present our company and attract possible customers, those who would like to own exceptional, modern, stylish pieces of furniture.
 
@@ -379,7 +379,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### **Known Bugs**
 
 - When testing responsivity and the width < 250px, at the contact us page the background is being pushed up, so that white appears instead.
-- Within README file, links between Table of Content to headings of the sections are not functioning.
 
 ### **Lighthouse Reports**
 
