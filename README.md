@@ -23,6 +23,8 @@ As for our targeted group of customers, well, that can be literally anyone with 
   * [Contact Us Page](#contact-us-page)
   * [Thank You Page](#thank-you-page)
   * [Footer](#footer)
+  * [Further Improvements](#further-improvements)
+  
  ### [Technologies Used](#technologies-used)
 
  ### [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
@@ -241,13 +243,13 @@ Hoping that we have sparked the desire of users to buy our services, at this pag
 
 ### **Thank You Page**
 
-This page is very similar to Contact Us, only difference is that instead of form, there is a message that form has been submited. To achieve this I had to change method to GET. There is also funny advice for the customer to keep on scrolling through Our Work for more inspiration. :)
+This page is very similar to Contact Us, only difference is that instead of form, there is a message that form has been submited. To achieve this I had to change method to GET.
 
 ![Thank You Page](assets/images/features/thank-you-desktop.png)
 
 ### **Footer**
 
-The footer itself is pretty basic but yet functional. It contains links to social networks presented in a form of icons.
+The footer itself is pretty basic but yet functional. It contains links to social networks presented in a form of icons. The links will pop up in new tabs as instructed by our teachers.
 
 * **Mobile Phones**
 
@@ -256,3 +258,12 @@ The footer itself is pretty basic but yet functional. It contains links to socia
 * **Desktop**
 
 ![Footer](assets/images/features/footer-desktop.png)
+
+### **Further Improvements**
+
+* Add more content to our work page on a regular basis
+* Add extra page about techniques and materials being used
+* Add phone number to the contact us page(don't know how I forgot about that)
+* Add copyright and company logo to the footer for more professional look
+* Fix any further bugs discovered avter final deployment
+  
