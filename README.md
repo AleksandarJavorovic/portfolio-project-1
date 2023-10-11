@@ -70,7 +70,7 @@ About Us and Our Work pages are there to present us, and show them what are we a
   - Present our brand in the best possible way.
   - Attract possible customer by our previous work, which can be seen in our gallery.
   - Sell our services.
-  - Keep the customer happy and satisfied as that ensures further cooperation and .attracts new costumers.
+  - Keep the customer happy and satisfied as that ensures further cooperation and attracts new costumers.
 
 ### **Design**
 
@@ -203,7 +203,7 @@ About Us and Our Work pages are there to present us, and show them what are we a
 
 ### **Header**
 
-The website is built upon principles of responsive design, therefore the header, as well as other parts of site, look slightly different on devices with different screen sizes. Within the header we have company name(logo) on the left side, as well as navigation bar which contains 4 elements on bigger screens, on smaller screens is swaped with the so-called burger icon, which is drop-down menu. Elements of the header have naming and icon appropriate to the content which follows behind.
+The website is built upon principles of responsive design, therefore the header, as well as other parts of site, look slightly different on devices with different screen sizes. Within the header we have company name(logo) on the left side, as well as navigation bar which contains 4 elements on bigger screens, on smaller screens it is swaped with the so-called burger icon, which is drop-down menu. Elements of the header have naming and icon appropriate to the content which follows behind.
 
 - **Mobile Phone**
 
@@ -227,7 +227,7 @@ That's the phrase which welcomes the user landing on the home page. It is simple
 
 ### **About Us Page**
 
-Name of the page tells us more or less everything what user can expect here. About us page is here to introduce XYZcellent Solutions to the future customer and let him know something more about the company, our goals etc.
+Name of the page tells us more or less everything what user can expect here. About us page is here to introduce XYZcellent Solutions to the future customers and let them know something more about the company, our goals etc.
 
 Here we have three sections:
 
@@ -367,7 +367,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### **Manual Testing**
 
 - The site was tested on variaty of browsers such as: [Brave](https://brave.com/), [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=82&form=MA13KI&es=24&ch=1), [Opera GX](https://www.opera.com/gx) and [Safari](https://www.apple.com/safari/).
-- The site was tested on variaty of devides as well: Desktop PC, Laptop, Xiaomi12T, Iphone14. Thanks to responsive design approach the site looks lood on all devices.
+- The site was tested on variaty of devides as well: Desktop PC, Laptop, Xiaomi12T, Iphone14. Thanks to responsive design approach the site looks good on all devices.
 - Links between pages as well as links to social networks were tested to ensure there are no issues.
 - Family members were asked kindly to try to use the site for additional feedback.
 
@@ -492,5 +492,5 @@ Thanks to my mentor Mitko Bachvarov for usefull tips and answers to all of my qu
 
 ### **Media**
 
-- Photos used are taken from: [Unsplash](https://unsplash.com/)
+- Photos are downloaded from: [Unsplash](https://unsplash.com/)
 - Google map iframe inspired by: [How to Embed Google Map in HTML](https://blog.hubspot.com/website/how-to-embed-google-map-in-html)
