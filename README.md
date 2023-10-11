@@ -26,8 +26,8 @@ As for our targeted group of customers, well, that can be literally anyone with 
   * [Further Improvements](#further-improvements)
   
  ### [Technologies Used](#technologies-used)
-
- ### [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
+  * [Languages Used](#languages-used)
+  * [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
 
  ### [Testing](#testing)
 
@@ -267,3 +267,31 @@ The footer itself is pretty basic but yet functional. It contains links to socia
 * Add copyright and company logo to the footer for more professional look
 * Fix any further bugs discovered avter final deployment
   
+## **Technologies Used**
+
+### **Languages Used**
+* HTML5
+* CSS3
+
+### **Frameworks, Libraries and Programs Used**
+
+1. [Google Fonts](https://fonts.google.com/)
+   * Used to import "Lato" and "Playfiar Display" fonts into the style.css file
+2. [Font Awesome](https://fontawesome.com/)
+   * Used to add icons for UX and aesthetic purposes
+3. [Favicon.io](https://favicon.io/)
+   * Used to create favicon for the website
+4. [Git](https://git-scm.com/)
+   * Used for version control, commit to Git and Push to GitHub
+5. [GitHub](https://github.com/)
+   * Used to store the code online and for deployment
+6. [Balsamiq](https://balsamiq.com/)
+   * Used to create frames for the site in the designing process
+7. [Am I Responsive](https://ui.dev/amiresponsive)
+   * Used to create mockup image for the README file
+8. [Simple Image Resizer](https://www.simpleimageresizer.com/)
+   * Used to resize/compress images
+9. [Red Ketchup](https://redketchup.io/)
+   * Used to crop images
+
+
