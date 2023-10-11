@@ -42,9 +42,12 @@ As for our targeted group of customers, well, that can be literally anyone with 
 
 ### [**Deployment and local development**](#deployment-and-local-development)
 
-### [**Credits**](#credits)
+- [GitHub Pages](#github-pages)
+- [Forking the GitHub Repository](#forking-the-github-repository)
 
-### [**Aknowledgements**](#aknowledgements)
+### [**Credits**](#credits)
+- [Content](#content)
+- [Media](#media)
 
 ## **User Experience (UX)**
 
@@ -470,4 +473,24 @@ By forking the GitHub Repository we can make a copy of the original repository t
 2. At the top, in the line with the project's name, on the right side find "Fork", click.
 3. Now you have a copy of the original repository in your GitHub account.
 
-### **Local Clone**
+## **Credits**
+
+Thanks to my mentor Mitko Bachvarov for usefull tips and answers to all of my questions.
+
+### **Content**
+
+- Many things were inspired by Love Running project
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) contributed a lot to understanding of the concept of flexbox.
+- Inspiration for README file I found in these three exemples:
+  * [Lunar Escape](https://github.com/Thomas-Tomo/Lunar-Escape/blob/main/README.md#deployment-and-local-development-1)
+  * [Furry Friends Shelter](https://github.com/Julia-Wagner/furry-friends/blob/main/README.md#furry-friends-shelter)
+  - [Code Institute Website](https://github.com/Code-Institute-Solutions/SampleREADME)
+- Enlarging effect of icons inspired by: [Increase text size on hover](https://stackoverflow.com/questions/48388963/increase-text-size-on-hover)
+- Text-shadow effect for the main text is from: [CSS Shadow Effects](https://www.w3schools.com/css/css3_shadows.asp)
+- Text at About Us page written by(inspired by me): [ChatGPT](https://openai.com/chatgpt)
+- Inspiration for media queries taken from: [Media min-width & max-width](https://stackoverflow.com/questions/13550541/media-min-width-max-width)
+
+### **Media**
+
+- Photos used are taken from: [Unsplash](https://unsplash.com/)
+- Google map iframe inspired by: [How to Embed Google Map in HTML](https://blog.hubspot.com/website/how-to-embed-google-map-in-html)
