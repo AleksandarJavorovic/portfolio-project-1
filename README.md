@@ -8,15 +8,15 @@ As for our targeted group of customers, well, that can be literally anyone with 
 
 ![Am I Responsive](assets/images/am-i-responsive.png)
 
-## Table of Content
+## **Table of Content**
 
-### [**User Experience (UX)**](#user-experience-ux)
+### [**User Experience (UX)**](#user-experience-ux-aa)
 
 - [User Stories](#user-stories)
 - [Design](#design)
 - [Wireframes](#wireframes)
 
-### [**Features**](#features)
+### [**Features**](#features-aa)
 
 - [Header](#header)
 - [Home Page](#home-page)
@@ -27,12 +27,12 @@ As for our targeted group of customers, well, that can be literally anyone with 
 - [Footer](#footer)
 - [Further Improvements](#further-improvements)
 
-### [**Technologies Used**](#technologies-used)
+### [**Technologies Used**](#technologies-used-aa)
 
 - [Languages Used](#languages-used)
 - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
 
-### [**Testing**](#testing)
+### [**Testing**](#testing-aa)
 
 - [Validation Results](#validation-results)
 - [Manual Testing](#manual-testing)
@@ -40,16 +40,17 @@ As for our targeted group of customers, well, that can be literally anyone with 
 - [Knows Bugs](#known-bugs)
 - [Lighthouse Reports](#lighthouse-reports)
 
-### [**Deployment and local development**](#deployment-and-local-development)
+### [**Deployment and local development**](#deployment-and-local-development-aa)
 
 - [GitHub Pages](#github-pages)
 - [Forking the GitHub Repository](#forking-the-github-repository)
 
-### [**Credits**](#credits)
+### [**Credits**](#credits-aa)
+
 - [Content](#content)
 - [Media](#media)
 
-## **User Experience (UX)**
+## <a id="user-experience-ux-123"></a>**User Experience (UX)**
 
 Goal of this site is to present our company and attract possible customers, those who would like to own exceptional, modern, stylish pieces of furniture.
 
@@ -199,7 +200,7 @@ About Us and Our Work pages are there to present us, and show them what are we a
   ![Wireframe Thank You Page Tablet](/assets/images/wireframes/wireframe-thank-you-desktop.png)
   </details>
 
-## **Features**
+## <a id="features-aa"></a>**Features**
 
 ### **Header**
 
@@ -285,7 +286,7 @@ The footer itself is pretty basic but yet functional. It contains links to socia
 - Add copyright and company logo to the footer for more professional look.
 - Fix any further bugs discovered after final deployment.
 
-## **Technologies Used**
+## <a id="technologies-used-aa"></a>**Technologies Used**
 
 ### **Languages Used**
 
@@ -313,7 +314,7 @@ The footer itself is pretty basic but yet functional. It contains links to socia
 9. [Red Ketchup](https://redketchup.io/)
    - Used to crop images.
 
-## **Testing**
+## <a id="testing-aa"></a>**Testing**
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
@@ -378,6 +379,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### **Known Bugs**
 
 - When testing responsivity and the width < 250px, at the contact us page the background is being pushed up, so that white appears instead.
+- Within README file, links between Table of Content to headings of the sections are not functioning.
 
 ### **Lighthouse Reports**
 
@@ -455,7 +457,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ![Thank You Page Analysis](/assets/images/lighthouse/thank-you-lighthouse.png)
 </details>
 
-## **Deployment and local development**
+## <a id="deployment-and-local-development-aa"></a>**Deployment and local development**
 
 ### **GitHub Pages**
 
@@ -463,7 +465,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 2. At the navigation bar of the repository tab find "Settings", click.
 3. At the left side under the "Code and automation" section, click on "Pages".
 4. Next locate the "Source" and set it to "Deploy from a branch", branch should be "main", folder set to "root" and then click on the "Save" button.
-5. Head back to the [Project Repository](https://github.com/AleksandarJavorovic/portfolio-project-1) and on the right side click on [Deployments](https://github.com/AleksandarJavorovic/portfolio-project-1/deployments) and under the "Active deployments" section is the freshly deployed project: [XYZcellent Solutions](<https://aleksandarjavorovic.github.io/portfolio-project-1/>).
+5. Head back to the [Project Repository](https://github.com/AleksandarJavorovic/portfolio-project-1) and on the right side click on [Deployments](https://github.com/AleksandarJavorovic/portfolio-project-1/deployments) and under the "Active deployments" section is the freshly deployed project: [XYZcellent Solutions](https://aleksandarjavorovic.github.io/portfolio-project-1/).
 
 ### **Forking the GitHub Repository**
 
@@ -473,17 +475,17 @@ By forking the GitHub Repository we can make a copy of the original repository t
 2. At the top, in the line with the project's name, on the right side find "Fork", click.
 3. Now you have a copy of the original repository in your GitHub account.
 
-## **Credits**
+## <a id="credits-aa"></a>**Credits**
 
 Thanks to my mentor Mitko Bachvarov for usefull tips and answers to all of my questions.
 
 ### **Content**
 
 - Many things were inspired by Love Running project
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) contributed a lot to understanding of the concept of flexbox.
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) contributed a lot to understanding of the flexbox concept.
 - Inspiration for README file I found in these three exemples:
-  * [Lunar Escape](https://github.com/Thomas-Tomo/Lunar-Escape/blob/main/README.md#deployment-and-local-development-1)
-  * [Furry Friends Shelter](https://github.com/Julia-Wagner/furry-friends/blob/main/README.md#furry-friends-shelter)
+  - [Lunar Escape](https://github.com/Thomas-Tomo/Lunar-Escape/blob/main/README.md#deployment-and-local-development-1)
+  - [Furry Friends Shelter](https://github.com/Julia-Wagner/furry-friends/blob/main/README.md#furry-friends-shelter)
   - [Code Institute Website](https://github.com/Code-Institute-Solutions/SampleREADME)
 - Enlarging effect of icons inspired by: [Increase text size on hover](https://stackoverflow.com/questions/48388963/increase-text-size-on-hover)
 - Text-shadow effect for the main text is from: [CSS Shadow Effects](https://www.w3schools.com/css/css3_shadows.asp)
