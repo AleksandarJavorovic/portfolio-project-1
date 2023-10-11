@@ -16,7 +16,7 @@ As for our targeted group of customers, well, that can be literally anyone with 
 - [Design](#design)
 - [Wireframes](#wireframes)
 
-### [Features](#features)
+### [**Features**](#features)
 
 - [Header](#header)
 - [Home Page](#home-page)
@@ -27,12 +27,12 @@ As for our targeted group of customers, well, that can be literally anyone with 
 - [Footer](#footer)
 - [Further Improvements](#further-improvements)
 
-### [Technologies Used](#technologies-used)
+### [**Technologies Used**](#technologies-used)
 
 - [Languages Used](#languages-used)
 - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
 
-### [Testing](#testing)
+### [**Testing**](#testing)
 
 - [Validation Results](#validation-results)
 - [Manual Testing](#manual-testing)
@@ -40,11 +40,11 @@ As for our targeted group of customers, well, that can be literally anyone with 
 - [Knows Bugs](#known-bugs)
 - [Lighthouse Reports](#lighthouse-reports)
 
-### [Deployment and local development](#deployment-and-local-development)
+### [**Deployment and local development**](#deployment-and-local-development)
 
-### [Credits](#credits)
+### [**Credits**](#credits)
 
-### [Aknowledgements](#aknowledgements)
+### [**Aknowledgements**](#aknowledgements)
 
 ## **User Experience (UX)**
 
@@ -451,3 +451,23 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   
 ![Thank You Page Analysis](/assets/images/lighthouse/thank-you-lighthouse.png)
 </details>
+
+## **Deployment and local development**
+
+### **GitHub Pages**
+
+1. Log in to GitHub and locate [GitHub Repository XYZcellent Solutions](https://github.com/AleksandarJavorovic/portfolio-project-1)
+2. At the navigation bar of the repository tab find "Settings", click.
+3. At the left side under the "Code and automation" section, click on "Pages".
+4. Next locate the "Source" and set it to "Deploy from a branch", branch should be "main", folder set to "root" and then click on the "Save" button.
+5. Head back to the [Project Repository](https://github.com/AleksandarJavorovic/portfolio-project-1) and on the right side click on [Deployments](https://github.com/AleksandarJavorovic/portfolio-project-1/deployments) and under the "Active deployments" section is the freshly deployed project: [XYZcellent Solutions](<https://aleksandarjavorovic.github.io/portfolio-project-1/>).
+
+### **Forking the GitHub Repository**
+
+By forking the GitHub Repository we can make a copy of the original repository to view or make changes without changing the original repository.
+
+1. Log in to GitHub and locate [GitHub Repository XYZcellent Solutions](https://github.com/AleksandarJavorovic/portfolio-project-1)
+2. At the top, in the line with the project's name, on the right side find "Fork", click.
+3. Now you have a copy of the original repository in your GitHub account.
+
+### **Local Clone**
